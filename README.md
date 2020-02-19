@@ -6,6 +6,9 @@ Antony Kirunyu
 The project is created with;
 * HTML
 * CSS
+* BOOTSTRAP
+* JAVASCRIPT
+* J QUERY
 ### Link 
 * https://antonykirunyu.github.io/Jquery/
 
