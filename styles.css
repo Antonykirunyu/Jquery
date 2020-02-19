@@ -1,9 +1,12 @@
 body{
     background-image: url(https://bit.ly/2HCYYX2);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1{
     font-size: 45px;
     color: white;
+    text-decoration: underline;
 
 }
 .form-group{
@@ -11,5 +14,9 @@ h1{
     color:white;
 }
 label{
+    font-size: 25px;
+}
+p{
+    color: white;
     font-size: 25px;
 }
